@@ -7,7 +7,7 @@
     "server": "cd backend && yarn server",
     "install:prod": "cd frontend && yarn install --frozen-lockfile && cd ../backend && yarn install --frozen-lockfile",
     "build": "cd frontend && yarn build",
-    "deploy": "cd backend && yarn deploy-win"
+    "deploy": "cd backend && yarn deploy"
   },
   "repository": "git@github.com:ntuee-web-programming/111-1-deploy-demo.git",
   "author": "madmaxieee <76544194+madmaxieee@users.noreply.github.com>",
